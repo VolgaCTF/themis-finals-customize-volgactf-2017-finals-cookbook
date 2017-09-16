@@ -1,4 +1,4 @@
-import { yellow600, blue700, grey900 } from 'material-ui/styles/colors'
+import { deepPurple700 } from 'material-ui/styles/colors'
 
 const description =
   'You must set the following address for your instance: `10.0.N.3`\\\n' +
@@ -14,9 +14,9 @@ const description =
 
 export default {
   contestTitle: 'VolgaCTF 2017 Finals',
-  primary1Color: yellow600,
-  accent1Color: blue700,
-  headerColor: grey900,
+  primary1Color: deepPurple700,
+  accent1Color: 'f2c50a',
+  headerColor: '#fff',
   indexTitle: 'Hello there!',
   indexDescription: description,
   contestLogo: {
